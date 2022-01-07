@@ -1,7 +1,7 @@
 # Mobilenumberinfo
 Get information about mobile number
 
-# Clone the github repository and run the python file
+# Installation
 git clone https://github.com/8055anbu/mobilenumberinfo
 
 cd mobilenumberinfo
